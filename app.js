@@ -8,7 +8,7 @@ for (let i = 1; i <= 100; i += 10) {
 
         // 각 디렉토리 내부에 no1.js, no2.js, ... 파일 생성
         for (let j = i; j < i + 10; j++) {
-            fs.writeFileSync(`${dirName}/no${j}.js`, '// your code here');
+            fs.writeFileSync(`${dirName}/no${j}.js`, `// ${j}번 문제`);
         }
     }
 }

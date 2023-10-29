@@ -1,1 +1,1 @@
-// your code here
+// 30번 문제

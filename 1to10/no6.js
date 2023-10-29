@@ -1,1 +1,1 @@
-// your code here
+// 6번 문제

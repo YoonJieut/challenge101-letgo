@@ -1,1 +1,1 @@
-// your code here
+// 2번 문제

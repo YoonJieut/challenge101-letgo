@@ -1,1 +1,1 @@
-// your code here
+// 22번 문제
